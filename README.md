@@ -134,4 +134,5 @@
 ## 相關資源
 
 * [PDF](pdf/2016公政公約施行影子報告.pdf)
+* [Gitbook](https://www.gitbook.com/book/jrf-tw/taiwan-iccpr-shadow-report-2016-zh-tw/)
 
